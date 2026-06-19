@@ -1,0 +1,3 @@
+did_add_to_cart,did_checkout,user_count,purchase_rate_pct
+true,true,1055,42.5
+false,true,3164,34.3
